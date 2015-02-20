@@ -1,5 +1,5 @@
 
-## These functions takes a matrix and find its inverse. Rather than compute the inverse every time we would like it, however, the following two functions will compute it, and preserve it.
+## These functions takes a matrix and find its inverse. Rather than compute the inverse every time we would like it, however, the following two functions will compute it, and preserve it. A test case has indicated that this works.
 
 ## This first function will take a matrix, and make a list that will be called by the next function. This list is a new 'function' which will set and get the values of the matrix, and set and get the value of the inverse.
 
